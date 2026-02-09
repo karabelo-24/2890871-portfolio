@@ -1,0 +1,1 @@
+I learnt that HTML is a language that we use to build a websites's structure. It hasa elements,tags and also classes. CSS on the other hand is used to style and change the way the actual website will look like to users. Github can be used a server to host these website so we can generate link so we can access them on different devices.
